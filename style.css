@@ -1,0 +1,19 @@
+#myh1{
+    text-align: center;
+    margin: 30px;
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+#pass{
+    margin: 10px;
+}
+
+#check{
+    margin: 10px;
+}
